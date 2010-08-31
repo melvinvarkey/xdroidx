@@ -9,8 +9,7 @@ Two ways to root your Motorola Droid X
 = Details =
 
 *First Way - Easy Way!*<br>
-Install <a href="http://xdroidx.googlecode.com/files/UniversalAndroot-1.6.2-beta.apk">UniversalAndroot 1.6.2</a> to your phone by clicking link from your Android device or using the barcode scanner and scan the image below.
-<img src="http://chart.apis.google.com/chart?chs=150x150&cht=qr&chl=http://xdroidx.googlecode.com/files/UniversalAndroot-1.6.2-beta.apk&chld=L|1&choe=UTF-8"><br>
+Install <a href="http://xdroidx.googlecode.com/files/UniversalAndroot-1.6.2-beta.apk">UniversalAndroot 1.6.2</a> to your phone by clicking link from your Android device.<br>
 
 *Second Way - Hard Way! (for users who like to do stuff the old fashion way.)*<br>
 First Download Root Files - <a href="http://xdroidx.googlecode.com/files/DroidXRoot_v2.zip">Root Files</a>
