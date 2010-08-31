@@ -15,7 +15,7 @@ Instructions on how to get back to stock Android 2.1 if you've rooted or if your
 4. Install the drivers that apply to your Operating System.<br>
 5. Unzip the SBF into a folder. (Download Above)<br>
 6. Open RSD Lite and find the UNZIPPED SBF File<br>
-7. Put your Motorola Droid X into bootloader. (turn phone off and hold volume down and the camera button while pressing the power button)
+7. Put your Motorola Droid X into bootloader. (turn phone off and hold volume down and the camera button while pressing the power button)<br>
 8. Click start and sit back.<br>
 
 *Note*: after the flash will need to boot into recovery (hold volume down and the home button) and wipe data and cache.
