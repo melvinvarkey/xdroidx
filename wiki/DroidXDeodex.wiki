@@ -42,7 +42,7 @@ rm /system/framework/(star symbol).odex<br>
 mount -o ro,remount -t ext3 /dev/block/mmcblk1p21 /system<br>
 reboot<br>'
 
-Your phone should now be deodexed!<br>
+Your phone should now be deodexed and enjoy!<br>
 
 *Note: You may notice an increase in speed, and you now have the ability to edit certain files with greater effects. (i.e. services.jar)*
 
