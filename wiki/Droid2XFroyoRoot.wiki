@@ -3,7 +3,7 @@
 
 = Introduction =
 
-Instructions on how to root your Froyo(Android 2.2) devices (Droid 2 or Droid X)
+Instructions on how to root your Froyo(Android OS 2.2) devices (Droid 2 or Droid X)
 
 
 = Details =
