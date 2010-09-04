@@ -36,3 +36,12 @@ Download & Copy the <a href="http://xdroidx.googlecode.com/files/Superuser.apk">
 7. exit<br>
 8. adb reboot recovery<br>
 9. apply update.zip<br>
+
+*Once updated to Froyo*<br>
+1. adb shell"
+2. system/xbin/su"
+3. mount -o rw,remount /dev/block/system /system
+4. cp /system/xbin/su /system/bin/su
+5. ls /system/bin/su" (make sure the results are "/system/bin/su" and NOT "/system/xbin/su" - If you see this, repeat the previous step.)
+6. exit
+7. exit
