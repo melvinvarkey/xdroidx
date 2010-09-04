@@ -24,8 +24,9 @@ This is a guide on manually deodexing your phone for custom themes.
 4. Now these well take a while. Run option 3.<br>
 5. IMPORTANT: After you have run option 3, you MUST navigate to the xUltimate folder and find "origi_frame" folder, and delete "guava.odex". It's a bad file, and interferes with deodexing process.<br>
 6. Now run option 4, and wait.<br>
-7. Exit xUltimate, and put the phone in USB mass storage.<br>
+7. Exit xUltimate, and put the phone in "*USB Mass Storage*".<br>
 8. Go back into the xUltimate folder and copy "done_frame", and "done_app", and move them to the root of the sdcard.<br>
+9. Switch back to "*PC Mode*".<br>
 9. Open a command prompt, and do the following:<br>
 
 *Command:*<br>
