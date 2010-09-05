@@ -35,13 +35,14 @@ This is a guide on manually deodexing your phone for custom themes.
 adb shell<br>
 su<br>
 stop<br>
-mount -o rw,remount -t ext3 /dev/block/mmcblk1p21 /system<br>
+mount -o remount,rw /dev/block/system /system<br>
 cp /sdcard/done_app/(star symbol) /system/app/<br>
 cp /sdcard/done_frame/(star symbol) /system/framework/<br>
 rm /system/app/(star symbol).odex<br>
 rm /system/framework/(star symbol).odex<br>
-mount -o ro,remount -t ext3 /dev/block/mmcblk1p21 /system<br>
-reboot<br>'
+exit<br>
+exit<br>
+adb reboot<br>
 
 Your phone should now be deodexed and enjoy!<br>
 
