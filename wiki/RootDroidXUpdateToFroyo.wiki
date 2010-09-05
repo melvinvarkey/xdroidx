@@ -45,5 +45,5 @@ Download & Copy the <a href="http://xdroidx.googlecode.com/files/Superuser.apk">
 5. cp /system/xbin/su /system/bin/su<br>
 6. ls /system/bin/su" (make sure the results are "/system/bin/su" and NOT "/system/xbin/su" - If you see this, repeat the previous step.)<br>
 7. exit<br>
-8. exit
+8. exit<br>
 9. exit
