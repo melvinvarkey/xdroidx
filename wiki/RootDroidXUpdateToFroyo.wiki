@@ -40,10 +40,9 @@ Download & Copy the <a href="http://xdroidx.googlecode.com/files/Superuser.apk">
 *Once updated to Froyo*<br>
 1. adb shell<br>
 2. system/xbin/su<br>
-3. su<br>
-4. mount -o rw,remount /dev/block/system /system<br>
-5. cp /system/xbin/su /system/bin/su<br>
+3. mount -o rw,remount /dev/block/system /system<br>
+4. cp /system/xbin/su /system/bin/su<br>
+5. chmod 4755 /system/bin/su"<br>
 6. ls /system/bin/su" (make sure the results are "/system/bin/su" and NOT "/system/xbin/su" - If you see this, repeat the previous step.)<br>
 7. exit<br>
 8. exit<br>
-9. exit
