@@ -19,4 +19,4 @@ Instructions on how to get back to stock Android 2.1 if you've rooted or if your
 8. Click start and sit back.<br>
 
 = Important Note = 
-*After the flash will need to boot into recovery (hold volume down and the home button) and wipe data and cache.*
+*After the flash you will need to boot into recovery (hold volume down and the home button) and wipe data and cache.*
