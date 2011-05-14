@@ -8,7 +8,7 @@ Instructions on how to setup ADB.
 
 = Details =
 *First*<br>
-1. Download <a href="http://dl.google.com/android/android-sdk_r06-windows.zip">Android SDK</a><br>
+1. Download <a href="http://dl.google.com/android/installer_r11-windows.exe">Android SDK</a><br>
 2. The SDK program will download in a .zip file. Extract the file to your desktop - You should now have a folder on your desktop with a name: android-sdk-windows.<br>
 3. Move that folder to your Local Disk ( C: ) > android-sdk-windows<br>
 4. Make *SURE* to install the USB driver package in SDK. This way your device will be recognized when running adb commands later on...<br>
