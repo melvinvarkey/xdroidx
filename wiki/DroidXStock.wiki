@@ -9,8 +9,8 @@ Instructions on how to get back to stock Android if you've rooted or if your exp
 = Details =
 
 
-1. Download <a href="http://www.megaupload.com/?d=RTGP7T4S">SBF File</a> & <a href="http://xdroidx.googlecode.com/files/rsdlite_4.8.zip">RSDLite 4.7</a><br> 
-2. Install the RSDLite 4.7.<br>
+1. Download <a href="http://www.megaupload.com/?d=RTGP7T4S">SBF File</a> & <a href="http://xdroidx.googlecode.com/files/rsdlite_4.8.zip">RSDLite 4.8</a><br> 
+2. Install the RSDLite 4.8.<br>
 3. Move the pst_flash.ini file into the following folder --> Program Files/Motorola/RSDLite<br>
 4. Install the drivers that apply to your Operating System.<br>
 5. Unzip the SBF into a folder. (Download Above)<br>
