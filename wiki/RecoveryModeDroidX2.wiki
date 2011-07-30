@@ -1,5 +1,5 @@
 #labels Motorola,Droid,X2,Recovery
-#Recovery Mode.
+Recovery Mode.
 
 = Introduction =
 
