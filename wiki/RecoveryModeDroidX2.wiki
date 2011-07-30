@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels Motorola,Droid,X2,Recovery
+#Recovery Mode.
 
 = Introduction =
 
